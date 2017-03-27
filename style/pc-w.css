@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.pub-width{
+    width: 1200px;
+}
+
+
+
+
+
+/*给你最好的体验*/
+.m-value-info{
+	width: 40%;
+	margin-left:50%;
+	text-align: left;
+	padding-left: 100px;
+}
+.m-value-info h4{
+	height: 30px;
+	line-height: 30px;
+	font-size:26px;
+	padding-bottom: 20px;
+}
+.u-btn-value{
+	margin-left: 300px;
+}
+
+

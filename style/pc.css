@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+/*公用样式*/
+.pub-width{
+	padding-left: 0;
+    padding-right: 0;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+/*头部*/
+.u-logo{
+	width: 114px;
+	height: 43px;
+}
+
+
+/*公司理念*/
+.u-btn-concept{
+    width: 160px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+
+
+/*我们的服务*/
+.u-serviceTitle{
+	height: 100px;
+	line-height: 100px;
+}
+.m-service{
+	width: 100%;
+}
+.m-service-dot{
+	display: none;
+}
+
+
+
+/*解决方案*/
+.m-solution-text h3{
+	font-size: 32px;
+	line-height: 36px;
+	padding-bottom: 20px;
+}
+.m-solution-text p{
+	font-size: 16px;
+	line-height: 22px;
+	padding: 12px 0;
+}
+
+
+
+/*品牌与产品*/
+.m-brand{
+	width: 80%;
+	height: 100px;
+}
+.u-brand-text{
+	width: 60%;
+	height: 100px;
+	line-height: 50px;
+	margin: 0 auto;	
+	font-size: 26px;
+	text-align: center;
+}
+
+/*我们的团队*/
+.m-team-itembox{
+	width:25%;
+	display: block;
+}
+.u-team-member-info h4{
+	margin-top: 40%;
+	font-size: 12px;
+	padding-bottom: 20px;
+}
+.u-team-member-info p{
+	font-size: 12px;
+}
+.m-team-text h3{
+	font-size: 32px;
+	padding-bottom: 30px;
+}
+.m-team-text p{
+	font-size: 20px;
+	line-height: 24px;
+	padding-top: 16px;
+}
+
+/*给你最好的体验*/
+.m-value-info{
+	width: 40%;
+	margin-left:50%;
+	text-align: left;
+	padding-left: 20px;
+}
+.m-value-info h4{
+	height: 30px;
+	line-height: 30px;
+	font-size:26px;
+	padding-bottom: 20px;
+}
+.u-btn-value{
+	margin-left: 250px;
+}
+
+
+/*联系我们*/
+.m-contact-text h3{
+	font-size: 36px;
+	padding-bottom: 30px;
+}
+.m-contact-text p{
+	font-size: 24px;
+}
+/*联系我们-----联系方式*/
+.m-contact-way{
+	padding: 2%;
+	width: 19.6%;
+	margin: 0 .5%;
+	border: 1px solid #ccc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.u-contact-icon{
+	display: block;
+	width: 25%;
+	font-size: 40px;
+}
+.u-contact-info{
+	width:65%;
+	padding-left: 10%;
+}
+.u-contact-info span{
+	font-size: 20px;
+}
+.u-contact-info p{
+	font-size: 16px;
+	color: #999;
+}
+
+
+/*地图*/
+.m-address{
+	padding: 20px 0;
+}
+.u-transport{
+	width: 35%;
+	padding-top: 40px;
+	padding-left: 20px;
+}
+.u-transport h4{
+	font-size: 22px;
+	height: 40px;
+	line-height: 40px;	
+}
+.u-transport strong,.u-transport p{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+}
+#map{
+	width: 60%;
+	height:300px;
+	border:#ccc solid 1px;
+	font-size:12px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

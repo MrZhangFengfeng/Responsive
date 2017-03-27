@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+
+/*头部*/
+.menu-hide{
+	display: none;
+}
+.m-nav{
+	position: static;
+	float: right;
+	transform: translateX(0);
+	width: auto;
+	height: auto;
+	padding: 0 20px;
+	background-color: transparent;
+}
+.m-nav li{
+	float: left;
+	border-bottom: none;
+	line-height: 43px;
+    height: 43px;
+    margin-left: 10px;
+}
+.m-nav li>a{
+	color: #000;
+}
+
+/*我们的服务*/
+.m-service{
+	width: 200%;
+}
+
+
+/*品牌与产品*/
+.m-brand{
+	width: 80%;
+	height: 100px;
+}
+.u-brand-text{
+	width: 60%;
+	height: 100px;
+	line-height: 50px;
+	margin: 0 auto;	
+	font-size: 26px;
+	text-align: center;
+}
+
+
+/*团队*/
+.m-team-itembox{
+	width:50%;
+}
+.pad-show{
+	display: block;
+}
+.u-team-member-info h4{
+	margin-top: 40%;
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+.u-team-member-info p{
+	font-size: 14px;
+}
+
+
+
+/*给你最好的体验*/
+
+
+
+
+/*联系我们-----联系方式*/
+.m-contact-way{
+	width: 37.6%;
+	margin: 0 1%;
+	border: 1px solid #ccc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.u-contact-icon{
+	display: block;
+	width: 40%;
+	text-align: center;
+	font-size: 50px;
+}
+.u-contact-info{
+	width:55%;
+}
+.u-contact-info span{
+	font-size: 22px;
+}
+.u-contact-info p{
+	font-size: 18px;
+	color: #999;
+}
+
+
+/*地图*/
+.m-address{
+	padding: 10px 0;
+}
+.u-transport{
+	width: 100%;
+	padding-top: 40px;
+	padding-left: 20px;
+}
+.u-transport h4{
+	font-size: 22px;
+	height: 40px;
+	line-height: 40px;	
+}
+.u-transport strong,.u-transport p{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+}
+#map{
+	width: 98%;
+	height:300px;
+	border:#ccc solid 1px;
+	font-size:12px
+}
